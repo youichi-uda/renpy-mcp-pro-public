@@ -94,7 +94,7 @@ See the full [Installation Guide](https://renpy-mcp.abyo.net/) for details.
 
 - **Website:** https://renpy-mcp.abyo.net/
 - **itch.io:** https://y1uda.itch.io/renpy-mcp ($15)
-- **Discord:** https://discord.gg/6FVA25mW
+- **Discord:** https://discord.gg/N6sSHBGuYX
 
 ## License
 
